@@ -2,6 +2,8 @@
 
 ## Unofficial ChatGPT Client for Chat Completion API
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/almanalfaruq/chatgpt/master/LICENSE) ![Go workflow](https://github.com/almanalfaruq/chatgpt/actions/workflows/go.yaml/badge.svg)
+
 ### Install
 
 ```
